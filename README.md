@@ -1,9 +1,13 @@
 # 💫 About Me
 
 🎓 B.Sc. Computer Science (Honors) student at Qatar University
+
 🔬 AI Software Research Intern at QUYSC (SRIP 2026)
+
 🚀 Currently building Student Matcher, an AI-powered career matching platform
+
 🌱 Learning Web Development, AI Systems, and Cloud Technologies
+
 💡 Interested in Artificial Intelligence, Software Engineering, and Product Development
 
 # 💻 Tech Stack:
