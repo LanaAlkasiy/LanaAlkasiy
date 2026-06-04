@@ -1,6 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on Python and AI-related projects<br><br>🌱 I’m currently learning JavaScript, web development, and AI systems<br><br>👯 I’m looking to collaborate on beginner-friendly tech and innovation projects<br><br>💬 Ask me about Python, student projects, AI tools, and problem-solving<br><br>⚡ Fun fact: I enjoy exploring how AI can be used to create practical and creative solutions
+# 💫 About Me
 
+🎓 B.Sc. Computer Science (Honors) student at Qatar University
+🔬 AI Software Research Intern at QUYSC (SRIP 2026)
+🚀 Currently building Student Matcher, an AI-powered career matching platform
+🌱 Learning Web Development, AI Systems, and Cloud Technologies
+💡 Interested in Artificial Intelligence, Software Engineering, and Product Development
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
